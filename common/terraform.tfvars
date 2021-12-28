@@ -1,0 +1,1 @@
+RESOURCE_GROUP_NAME = "Dummy_Resource"
